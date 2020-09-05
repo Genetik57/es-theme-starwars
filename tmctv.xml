@@ -53,6 +53,14 @@ THE MINI CAKE TV YouTube Channel : https://www.youtube.com/c/TheMiniCakeTV
 
 	</view>
     <view name="basic, detailed">
+	      <text name="md_lbl_manual, md_manual, md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
+         <pos>1 1</pos>
+      </text>
+      <text name="md_lbl_manual, md_manual, md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_releasedate">
+         <color>7FABFE</color>
+         <fontSize>0.025</fontSize>
+      </text>
+	  
 	<helpsystem name="help">
       <textColor>0090ff</textColor>
       <iconColor>fa090f</iconColor>
@@ -67,6 +75,7 @@ THE MINI CAKE TV YouTube Channel : https://www.youtube.com/c/TheMiniCakeTV
 			<fontPath>./art/conthrax-sb.ttf</fontPath>
 			<fontSize>0.015</fontSize>
 		</text>
+		
 		
 		<rating name="md_rating">
          <pos>0.63 0.080</pos>
